@@ -10,6 +10,7 @@ namespace ConsoleAppOldName
     {
         static void Main(string[] args)
         {
+            //test
         }
     }
 }
