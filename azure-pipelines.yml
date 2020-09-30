@@ -20,4 +20,5 @@ steps:
     echo 4.$(Build.QueuedBy)
     echo 5.$(Build.RequestedFor)
     echo 6.$(Build.RequestedForId)
+    echo 7.$(Build.RequestedForEmail)
   displayName: 'Run a multi-line script'
